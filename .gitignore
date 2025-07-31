@@ -206,3 +206,6 @@ __marimo__/
 
 # Media files
 media/
+
+# Static files
+shop/static/
